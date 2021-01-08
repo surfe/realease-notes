@@ -1,5 +1,122 @@
 # Realease Notes
 
+## 1.20
+
+- Edit and delete template
+- Recommended template tag
+- Template colors
+
+**1.20.1**
+
+- Template shortcuts
+- Template support in "New Message"
+- Highlight leads on network connections
+- Country code of the user
+- Styling
+- Fix reveal email display
+- Fix Lead status display for Hubspot
+
+**1.20.2**
+
+- Add privacy policy to onboarding sequence
+
+**1.20.3**
+
+- Hide status dropdown for Salesforce
+- Fix whitespace in templates
+- Add styling to edit buttons
+
+**1.20.4**
+
+- Revamp user dashboard authentication
+
+## 1.19
+
+- Reveal email in SalesNav
+- Add title to Salesforce notes
+- Time zone offset
+
+**1.19.1**
+
+- Various code structure improvements
+
+**1.19.2**
+
+- Company select drop-down
+- Toggle company select
+- Handle leads
+
+**1.19.3**
+
+- LinkedIn new visual identity support
+- New user dashboard authentication mechanism
+- Improve onboarding steps
+- Basic EN and FR translations
+
+**1.19.4**
+
+**1.19.5**
+
+- Fix modal height
+
+**1.19.6**
+
+- Basic conversation smart template system
+
+## 1.18
+
+- New onboarding welcome panels
+- Put settings button in extension popup
+- Oauth step in LinkedIn
+
+**1.18.1**
+
+- Fix onboarding state machine
+- Improve styling
+
+**1.18.2**
+
+- Fix onboarding
+
+**1.18.3**
+
+- Enrich company in SalesNav
+- "Add to CRM" button in SalesNav
+- Highlight leads in SalesNav
+- Fix conversation emoji reaction
+
+**1.18.4**
+
+- Fix open modal company page
+
+## 1.17
+
+- Basic SalesNav support
+- Highlight list contacts
+
+**1.17.1**
+
+- Code improvements
+
+**1.17.2**
+
+- Fix find profile company
+
+**1.17.3**
+
+- Fix fail to enrich company without LinkedIn page
+- Copper dedicated wording
+
+**1.17.4**
+
+- Basic SalesNav contact info layout
+- SalesNav labels & activity
+- Fix error message in conversation
+
+**1.17.5**
+
+- Synchronize bubble conversations in SalesNav
+
 ## 1.16
 
 - Highlight CRM contacts in "People also viewed" sidebar
@@ -16,16 +133,14 @@
 
 **1.16.3**
 
-- Fix email from public LinkedIn coordinates feature
 - Fix profile picture upload
+- Fix email from public LinkedIn coordinates feature
 
 **1.16.4**
 
-- Sentry
-
 **1.16.5**
 
-- Fix 'undefined' in conversations
+- Fix "undefined" in conversations
 - Colored labels with drop-down choice
 
 **1.16.6**
@@ -36,11 +151,11 @@
 
 ## 1.15
 
-- Revamping of the code base (Webpack)
 - Use of the LinkedIn API
-- Fetch more contact fields and the company info from the prospect's page
+- Revamping of the code base (Webpack)
 - Add company now based on URL, not name
 - Matching based on LinkedIn profile URL, not name + company
+- Fetch more contact fields and the company info from the prospect's page
 
 **1.15.1**
 
@@ -50,20 +165,20 @@
 
 **1.15.2**
 
+- Extension version is sent along API request
 - Fix "Sync" not displayed in bubble conversations
 - Fix freemium upgrade message display
-- Extension version is sent along API request
 
 **1.15.3**
 
-- Fix bubble conversations
 - Remove "Enrich & Add" button
+- Fix bubble conversations
 - Fix fetch data for incomplete profiles
 
 **1.15.4**
 
+- Improve _Add to CRM_ error handling
 - Fix bubble conversation "Sync"
-- Improve *Add to CRM* error handling
 
 # 1.14
 
@@ -73,10 +188,10 @@
 
 - Kendo support
 - Limit use when no subscription exist
-- *Upgrade* popup page
-- Fix drop-down behind Leadjet embedded section
+- _Upgrade_ popup page
 - Send URL to API (to improve homonyms management)
-- Fix *Reveal* button
+- Fix drop-down behind Leadjet embedded section
+- Fix _Reveal_ button
 
 ## 1.13
 
@@ -86,9 +201,9 @@
 
 - Support for the new OAuth login
 - Number of credits shown for all enrichment tools in the popup
-- *Add to CRM* button gives option to *Enrich and Add*
+- _Add to CRM_ button gives option to _Enrich and Add_
 - Update CRM button
-- Fix *Enrich and Add*
+- Fix _Enrich and Add_
 
 ## 1.11
 
