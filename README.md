@@ -1,6 +1,6 @@
 # Realease Notes
 
-## 1.20
+## 1.20 (December 8, 2020)
 
 - Edit and delete template
 - Recommended template tag
@@ -30,7 +30,7 @@
 
 - Revamp user dashboard authentication
 
-## 1.19
+## 1.19 (October 13, 2020)
 
 - Reveal email in SalesNav
 - Add title to Salesforce notes
@@ -63,7 +63,7 @@
 
 - Basic conversation smart template system
 
-## 1.18
+## 1.18 (September 23, 2020)
 
 - New onboarding welcome panels
 - Put settings button in extension popup
@@ -89,7 +89,7 @@
 
 - Fix open modal company page
 
-## 1.17
+## 1.17 (September 10, 2020)
 
 - Basic SalesNav support
 - Highlight list contacts
@@ -117,7 +117,7 @@
 
 - Synchronize bubble conversations in SalesNav
 
-## 1.16
+## 1.16 (August 18, 2020)
 
 - Highlight CRM contacts in "People also viewed" sidebar
 
@@ -149,7 +149,7 @@
 - Sync CRM button style change
 - Fix of strange behavior of the Sync conv button
 
-## 1.15
+## 1.15 (August 18, 2020)
 
 - Use of the LinkedIn API
 - Revamping of the code base (Webpack)
