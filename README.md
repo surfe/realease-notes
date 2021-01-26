@@ -30,6 +30,22 @@
 
 - Revamp user dashboard authentication
 
+**1.20.5**
+
+- Support for Dropdown extra field type
+- Show number of trial days remaining in popup
+
+**1.20.6**
+
+- Add contact from conversation
+- Change contact status from conversation
+- Go to contact's CRM profile from conversation
+- Snov.io enrichment tool support
+- Send feedback at the end of trial
+- Fix phone update
+- Fix conversation observers
+- Fixes
+
 ## 1.19 (October 13, 2020)
 
 - Reveal email in SalesNav
