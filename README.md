@@ -1,4 +1,4 @@
-# Realease Notes
+# Release Notes
 
 ## 1.20 (December 8, 2020)
 
