@@ -46,6 +46,13 @@
 - Fix conversation observers
 - Fixes
 
+**1.20.7**
+
+- Share and Copy templates
+- Extra fields support in SalesNav
+- Get profile image from SalesNav to Pipedrive
+- Show the name of the images and attachements in convs
+
 ## 1.19 (October 13, 2020)
 
 - Reveal email in SalesNav
