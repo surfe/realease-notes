@@ -53,6 +53,18 @@
 - Get profile image from SalesNav to Pipedrive
 - Show the name of the images and attachements in convs
 
+**1.20.8**
+
+- Fix LinkedIn profile display causing Leadjet features to fail
+
+**1.20.9**
+
+- Add Salesforce lead status
+- Add uninstall survey
+- Display profile picture of contact owner next to his/her name
+- Improve display grid
+- Fix profile upper section not updated on page change
+
 ## 1.19 (October 13, 2020)
 
 - Reveal email in SalesNav
