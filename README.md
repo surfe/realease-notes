@@ -1,5 +1,19 @@
 # Release Notes
 
+## 1.21 (February 23, 2021)
+
+- Deployed interactive tutorial at startup
+- Prepare Deals API
+- Improve highlight contact speed
+- Improve "Add Note" UX
+
+**1.20.1**
+
+- Basic Deals support in profile pages
+- Implemented dynamic selectors to prevent long-lasting impact when LinkedIn changes its display
+- Display different onboarding panel when invited
+- Fix enrichment issue in SalesNav
+
 ## 1.20 (December 8, 2020)
 
 - Edit and delete template
