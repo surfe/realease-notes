@@ -7,12 +7,19 @@
 - Improve highlight contact speed
 - Improve "Add Note" UX
 
-**1.20.1**
+**1.21.1**
 
 - Basic Deals support in profile pages
 - Implemented dynamic selectors to prevent long-lasting impact when LinkedIn changes its display
 - Display different onboarding panel when invited
 - Fix enrichment issue in SalesNav
+
+**1.21.2**
+
+- Add notes on SalesNav
+- Add "Go premium" button
+- Fix SalesNav style issue
+- Improve security
 
 ## 1.20 (December 8, 2020)
 
