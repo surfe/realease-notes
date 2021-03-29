@@ -21,6 +21,14 @@
 - Fix SalesNav style issue
 - Improve security
 
+**1.21.3**
+
+- Implement basic Salesloft integration (add Person and assign to Cadence)
+- Edit/Delete CRM notes
+- Support Template in SalesNav
+- Add "Participate to roadmap" popup
+- Add basic Leadjet section for company pages
+
 ## 1.20 (December 8, 2020)
 
 - Edit and delete template
