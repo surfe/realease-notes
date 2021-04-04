@@ -29,6 +29,13 @@
 - Add "Participate to roadmap" popup
 - Add basic Leadjet section for company pages
 
+**1.21.4**
+
+- Choose pipeline before Deal creation
+- Filter read-only fields
+- Extract contact profile location
+- Fix SalesNav smart conversations
+
 ## 1.20 (December 8, 2020)
 
 - Edit and delete template
