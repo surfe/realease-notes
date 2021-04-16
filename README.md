@@ -36,6 +36,15 @@
 - Extract contact profile location
 - Fix SalesNav smart conversations
 
+**1.21.5**
+
+- Add Deals in SalesNav
+- Edit embedded fields directly from LinkedIn
+- Fix selector in LinkedIn's new design
+- Fix custom fields panel
+- Fix SalesNav update button
+- Fix empty conversation error
+
 ## 1.20 (December 8, 2020)
 
 - Edit and delete template
