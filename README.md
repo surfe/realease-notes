@@ -45,6 +45,15 @@
 - Fix SalesNav update button
 - Fix empty conversation error
 
+**1.21.6**
+
+- Support embedded fields on Companies and Deals
+- Improve enrichment queries with Company domain
+- Display a "What's New?" button every month
+- Fix need to refresh after "Add to CRM" in SalesNav
+- Fix embedded fields style
+- Fix "Sync" button not appearing in conversations
+
 ## 1.20 (December 8, 2020)
 
 - Edit and delete template
