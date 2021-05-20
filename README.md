@@ -1,5 +1,13 @@
 # Release Notes
 
+## 1.22 (May 20, 2021)
+
+- Sync LinkedIn conversation using API
+- Display Company name in Leadjet section
+- Reveal pro email
+- Fix scroll required to view "sync" button in SalesNav
+- Fix company / jobtitle mismatch
+
 ## 1.21 (February 23, 2021)
 
 - Deployed interactive tutorial at startup
