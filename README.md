@@ -54,6 +54,17 @@
 - Fix embedded fields style
 - Fix "Sync" button not appearing in conversations
 
+**1.21.7**
+
+- Edit Lead embedded fields
+- Fix <br> in Templates
+
+**1.21.8**
+
+- Export LinkedIn SalesNav lists (beta)
+- Fix storage issue
+- Remove onboarding checkbox
+
 ## 1.20 (December 8, 2020)
 
 - Edit and delete template
