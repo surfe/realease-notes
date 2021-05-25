@@ -8,6 +8,14 @@
 - Fix scroll required to view "sync" button in SalesNav
 - Fix company / jobtitle mismatch
 
+**1.22.1**
+
+- Solve stability issue in SalesNav
+- Fix Share Template feature
+- Change "Update CRM" icon in SalesNav
+- Possibility to skip tutorial after onboarding
+- Fix Pipeline selection modal icon
+
 ## 1.21 (February 23, 2021)
 
 - Deployed interactive tutorial at startup
