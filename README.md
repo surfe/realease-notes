@@ -16,6 +16,15 @@
 - Possibility to skip tutorial after onboarding
 - Fix Pipeline selection modal icon
 
+**1.22.2**
+
+- Multiple Deals carousel
+- Display & Edit Copper tags
+- Display warning when Contact's LinkedIn URL not present in the CRM
+- Remove "homonyms" feature
+- Salesloft support on SalesNav
+- Faster loading time
+
 ## 1.21 (February 23, 2021)
 
 - Deployed interactive tutorial at startup
