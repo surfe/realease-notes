@@ -25,6 +25,18 @@
 - Salesloft support on SalesNav
 - Faster loading time
 
+**1.22.3**
+
+- Auto-sync of conversations
+- Display drop-down labels for Companies
+- Lusha support
+- Support more CRM fields type
+- Give possibility to restrict fields mapping to admin only
+- Fix SalesNav list export feature
+- Complete refactoring of conversations
+- Fix giant SVG icons
+- Fix conversations sent to wrong Contacts
+
 ## 1.21 (February 23, 2021)
 
 - Deployed interactive tutorial at startup
