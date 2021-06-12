@@ -37,6 +37,13 @@
 - Fix giant SVG icons
 - Fix conversations sent to wrong Contacts
 
+**1.22.4**
+
+- Move company selector
+- Invite the user to see an onboarding guide if error
+- Fix tutorial popup which could not be closed
+- Change default state in Leadjet popup
+
 ## 1.21 (February 23, 2021)
 
 - Deployed interactive tutorial at startup
