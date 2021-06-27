@@ -44,6 +44,16 @@
 - Fix tutorial popup which could not be closed
 - Change default state in Leadjet popup
 
+**1.22.5**
+
+- Display number of Notes on "Add Notes" button
+- Show if a certain field is "read-only"
+- VoilaNorbert integration
+- Change notification engine & style
+- Fix double scroll on long popups
+- Fix reject errors
+- Expand layout storage size
+
 ## 1.21 (February 23, 2021)
 
 - Deployed interactive tutorial at startup
