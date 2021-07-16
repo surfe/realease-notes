@@ -54,6 +54,16 @@
 - Fix reject errors
 - Expand layout storage size
 
+**1.22.6**
+
+- SalesNav Company list highlight
+- Fix panel display
+- Fix multiple-value fields edit
+- Fix labels overflow
+- Fix Copper tags removed when update
+- Hubspot Companies now have owners
+- Fix time offset in conversations
+
 ## 1.21 (February 23, 2021)
 
 - Deployed interactive tutorial at startup
