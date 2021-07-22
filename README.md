@@ -64,6 +64,13 @@
 - Hubspot Companies now have owners
 - Fix time offset in conversations
 
+**1.22.7**
+
+- Add Deals for Salesforce
+- Improve SalesNav list export
+- Fix Company search query
+- Fix extrafield overflow
+
 ## 1.21 (February 23, 2021)
 
 - Deployed interactive tutorial at startup
