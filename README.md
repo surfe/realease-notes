@@ -71,6 +71,21 @@
 - Fix Company search query
 - Fix extrafield overflow
 
+**1.22.8**
+
+- Fix class & ID names
+- Fix SalesNav Lead status update
+
+**1.22.9**
+
+- Support Deals labels (Pipedrive)
+- Send Stripe built-in invoice via email
+- Improve matching algorithm for Hubspot
+- Enable Pro features during trial
+- Remove template recommendations
+- Fix message Templates injection on New Message
+- Fix scroll on label overflow
+
 ## 1.21 (February 23, 2021)
 
 - Deployed interactive tutorial at startup
