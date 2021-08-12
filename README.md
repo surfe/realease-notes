@@ -1,5 +1,14 @@
 # Release Notes
 
+## 1.23 (August 12, 2021)
+
+- Display email/phone enrichment provider and dynamic cascading
+- Provide help on the CRM selection onboarding panel
+- Fix SalesNav smart conversations
+- Fix various CSS selectors
+- Fix profile picture not being sent to Pipedrive
+- Fix responsiveness of embedded Deals
+
 ## 1.22 (May 20, 2021)
 
 - Sync LinkedIn conversation using API
