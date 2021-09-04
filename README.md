@@ -9,6 +9,29 @@
 - Fix profile picture not being sent to Pipedrive
 - Fix responsiveness of embedded Deals
 
+**1.23.1**
+
+- Fix SalesNav URL in conversations
+
+**1.23.2**
+
+- Improve OAuth process
+
+**1.23.3**
+
+- Export list as Lead
+- Update Firefox version
+- Smooth section appearance
+- Prevent same embedded field to be used more than once
+
+**1.23.4**
+
+- Revamp onboarding step-by-step tutorial
+- Disable Update button when not needed
+- Export Twitter handle & Industry from LinkedIn
+- Fix blank panel at startup
+- Fix Company section above dropdowns
+
 ## 1.22 (May 20, 2021)
 
 - Sync LinkedIn conversation using API
