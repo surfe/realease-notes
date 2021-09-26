@@ -1,5 +1,20 @@
 # Release Notes
 
+## 1.24 (September 17, 2021)
+
+- Revamp Note taking from LinkedIn profile
+- Make Notes editable from Copper
+- Optimize API calls made to CRMs
+- Basic cache optimizations
+- Enable Org search autocomplete for Hubspot
+
+**1.24.1**
+
+- New design for onboarding tooltips
+- Add shortcut to Leadjet dashboard in Navbar
+- Fix message Templates not displayed in "New message" bubble conv
+- Fix list export
+
 ## 1.23 (August 12, 2021)
 
 - Display email/phone enrichment provider and dynamic cascading
@@ -31,6 +46,13 @@
 - Export Twitter handle & Industry from LinkedIn
 - Fix blank panel at startup
 - Fix Company section above dropdowns
+
+**1.23.5**
+
+- Improve extra fields display
+- Fix SVG width browser support
+- Fix Export to CRM button not appearing
+- Improve wording
 
 ## 1.22 (May 20, 2021)
 
