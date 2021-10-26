@@ -15,6 +15,26 @@
 - Fix message Templates not displayed in "New message" bubble conv
 - Fix list export
 
+**1.24.2**
+
+- Implement Salesloft new branding
+- Improve conversation handling
+- Fix SVG display
+
+**1.24.3**
+
+- Improve multi-value dropdowns
+
+**1.24.4**
+
+- Support Salesforce RecordTypes and custom Layouts
+- Remove "Set LinkedIn URL" step from onboarding
+- Automate LinkedIn URL matching based on CRM's config
+- Introduce navbar notification system
+- Fix LinkedIn URL format
+- Fix button display issues
+- Throttle API calls
+
 ## 1.23 (August 12, 2021)
 
 - Display email/phone enrichment provider and dynamic cascading
