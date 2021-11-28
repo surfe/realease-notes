@@ -35,6 +35,27 @@
 - Fix button display issues
 - Throttle API calls
 
+**1.24.5**
+
+- Add "Go Premium" panel for premium features
+- Fix display issues
+
+**1.24.6**
+
+- Display HubSpot german ebook link
+- Fix navbar URL
+- Fix SalesNav list export
+
+**1.24.7**
+
+- Implement new HubSpot invitation workflow
+
+**1.24.8**
+
+- Ask for required fields before add to CRM
+- Add "Rate us" notification
+- Refacto CSS
+
 ## 1.23 (August 12, 2021)
 
 - Display email/phone enrichment provider and dynamic cascading
