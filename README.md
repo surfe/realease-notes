@@ -56,6 +56,36 @@
 - Add "Rate us" notification
 - Refacto CSS
 
+**1.24.9**
+
+- Quick fix API version change
+
+**1.24.10**
+
+- Fix injected onboarding
+
+**1.24.11**
+
+- Support Company page on LinkedIn SalesNav
+- Add SalesNav URL custom field
+- Redesign extension popup
+- Notify successful Salesloft action
+- Fix contact highlighting
+
+**1.24.12**
+
+- Display panel when not enough credits
+- Display info bubble when hovering contacts
+- Highlight Companies in SalesNav account lists
+- Fix duplicate "More fields" button
+- Fix extra fields display
+
+**1.24.13**
+
+- Remove support for Firefox addons
+- Simplify Copper's welcome panel
+- Serve API endpoints dynamically
+
 ## 1.23 (August 12, 2021)
 
 - Display email/phone enrichment provider and dynamic cascading
