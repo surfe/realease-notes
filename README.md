@@ -1,5 +1,14 @@
 # Release Notes
 
+## 1.25 (December 30, 2021)
+
+- V1 Contact Update feature
+
+**1.25.1**
+
+- Export SalesNav list name with exported contacts
+- Fix notification shadows
+
 ## 1.24 (September 17, 2021)
 
 - Revamp Note taking from LinkedIn profile
