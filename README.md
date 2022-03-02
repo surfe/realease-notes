@@ -1,5 +1,45 @@
 # Release Notes
 
+## 1.26 (January 15, 2022)
+
+- Refactor code-base (domain driven)
+- Support checkbox field type
+- Fix highlight in SalesNav lists
+
+**1.26.1**
+
+- Render conversation timestamps based on user's location
+- Improve contact-update notification display
+
+**1.26.2**
+
+- Fixes
+
+**1.26.3**
+
+- Improve Company matching
+- Fix fields alignment
+- Upgrade dependencies
+
+**1.26.4**
+
+- Fix contact update displayed total
+- Fix email finder tool API connexion
+
+**1.26.5**
+
+- Fix enrichment on SalesNav
+- Fix wrong deal displayed for contact
+
+**1.26.6**
+
+- View Company deals from Contact profile
+- Change Contact owner directly from the Leadjet section
+- Fetch Companies specialties
+- Show most recent Deal in caroussel first
+- Perform list export in the background
+- Fix welcome panel display display
+
 ## 1.25 (December 30, 2021)
 
 - V1 Contact Update feature
