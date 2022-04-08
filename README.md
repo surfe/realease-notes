@@ -1,5 +1,11 @@
 # Release Notes
 
+## 1.27 (April 08, 2022)
+
+- Redesign Notes in side panel (mnimized & extended views)
+- Export Contacts / Companies from SalesNav Search page
+- Link Contacts to existing Deals
+
 ## 1.26 (January 15, 2022)
 
 - Refactor code-base (domain driven)
@@ -39,6 +45,28 @@
 - Show most recent Deal in caroussel first
 - Perform list export in the background
 - Fix welcome panel display display
+
+**1.26.7**
+
+- Add Company to new Deal
+- Add past experiences to CRM from SalesNav
+- Fix templates
+
+**1.26.8**
+
+- Move Contact Updates to side panel
+- Export Connection Level to CRM
+
+**1.26.9**
+
+- Move Notes to the side panel
+- Fix Leadjet unable to work alongside some third-party extensions
+- Rebrand Salesloft
+
+**1.26.10**
+
+- Support new SalesNav Contact layout
+- Filter Salesloft cadences by name / team
 
 ## 1.25 (December 30, 2021)
 
