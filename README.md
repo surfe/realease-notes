@@ -6,6 +6,28 @@
 - Export Contacts / Companies from SalesNav Search page
 - Link Contacts to existing Deals
 
+**1.26.1**
+
+- Prioritize personal phone numbers from third party enrichment tools
+- Fix issue where Deals are not ediable after they first loaded
+- Fix issue causing the wrong deal to be linked to a Company
+- Fix tooltips
+
+**1.26.2**
+
+- Export funding amount of Company
+- Fix content script injection issue causing Leadjet to disappear
+- Fix localstorage capacity
+- Fix extra fields overflow on SalesNav
+
+**1.26.3**
+
+- Support rich text edition in Notes (bold, italic, lists, ...)
+- Redesign drop-downs for labels 
+- Required fields displayed on top and not breaking regular fields' layout
+- Fix browser API issue preventing onboarding
+- Reduce errors "User not found" and for pages not supported
+
 ## 1.26 (January 15, 2022)
 
 - Refactor code-base (domain driven)
