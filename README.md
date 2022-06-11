@@ -1,5 +1,15 @@
 # Release Notes
 
+## 1.28 (June 11, 2022)
+
+- Implement Note Templates + default examples
+- Notes can be saved with Ctrl+S shortcut
+- Support Saved Searches in SalesNav
+- Ignore some LinkedIn URLs to avoid errors
+- Fix Notes not saving if only title was edited
+- Fix SalesNav API queries
+- Fix multiple layer induced error
+
 ## 1.27 (April 08, 2022)
 
 - Redesign Notes in side panel (mnimized & extended views)
