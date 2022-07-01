@@ -10,6 +10,16 @@
 - Fix SalesNav API queries
 - Fix multiple layer induced error
 
+**1.28.1**
+
+- Integrate with ZeroBounce
+- Truncate floating point numbers display
+
+**1.28.2**
+
+- Fix Smart Conversations
+- Fix SalesNav integration after layout change
+
 ## 1.27 (April 08, 2022)
 
 - Redesign Notes in side panel (mnimized & extended views)
