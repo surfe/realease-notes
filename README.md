@@ -20,6 +20,24 @@
 - Fix Smart Conversations
 - Fix SalesNav integration after layout change
 
+**1.28.3**
+
+- Fix UI not injected in some SalesNav profiles
+- Fix smart conversation not injected in bubbles
+
+**1.28.4**
+
+- Export connexion degree level
+- Support second phone field
+- Fix message templates shortcut
+
+**1.28.5**
+
+- Fix personal emails not being sent to CRM
+- Fix {current_position} template placeholder
+- Fix "invalid message" error on empty SalesNav bubble conversations
+- Fix duplicate company when different name after adding new Contact
+
 ## 1.27 (April 08, 2022)
 
 - Redesign Notes in side panel (mnimized & extended views)
