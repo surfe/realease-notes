@@ -1,5 +1,21 @@
 # Release Notes
 
+## 1.29 (August 3, 2022)
+
+- Migrate to Manifest V3
+
+**1.29.1, 1.29.2, 1.29.3**
+
+- Fix Manifest V3 permissions
+
+**1.29.4**
+
+- Display all Tasks related to a Contact
+- Implement real-time event notification
+- Fix Primary association removed when updating Contact (HubSpot)
+- Fix Job Update count
+- Remove "refresh page" notification
+
 ## 1.28 (June 11, 2022)
 
 - Implement Note Templates + default examples
@@ -37,6 +53,15 @@
 - Fix {current_position} template placeholder
 - Fix "invalid message" error on empty SalesNav bubble conversations
 - Fix duplicate company when different name after adding new Contact
+
+**1.28.6**
+
+- Change Task design in Contact section
+- Fix bubble conversations
+
+**1.28.7**
+
+- Fix popup alert design
 
 ## 1.27 (April 08, 2022)
 
