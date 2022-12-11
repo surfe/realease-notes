@@ -1,5 +1,63 @@
 # Release Notes
 
+## 2.0 (October 21, 2022)
+
+- Rebrand to Surfe!
+- Introduce Deal Pipeline view
+- Lots of bug fixes
+
+**2.0.1**
+
+- Fix highlight logic
+- Update Intercom links
+- Update Chrome URLs
+
+**2.0.2**
+
+- Fixes
+
+**2.0.3**
+
+- Change welcome modal copywriting
+- Invite owner when not a Surfe user
+- Fix SN list export
+
+**2.0.4**
+
+- Introduce "Link to another record" feature
+- Fix bug where contacts are added to the wrong company
+
+**2.0.5**
+
+- Increase size of task's comment section
+- Display owner of shared templates
+- Mark mandatory fields in tasks
+
+**2.0.6**
+
+- Add delete task button
+- Fix onboarding tooltips
+
+## 1.30 (September 29, 2022)
+
+- Edit contact fields on click
+- Show the number of Notes on profile
+- Fix enrichment loading and fetch
+
+**1.30.1**
+
+- Fix repeated fields requests
+
+**1.30.2**
+
+- Introduce enrichment feature during onboarding
+- Fix dates in tasks
+- Add support for currency and date fields
+
+**1.30.3**
+
+- Fix Deals on SalesNav
+
 ## 1.29 (August 3, 2022)
 
 - Migrate to Manifest V3
@@ -15,6 +73,27 @@
 - Fix Primary association removed when updating Contact (HubSpot)
 - Fix Job Update count
 - Remove "refresh page" notification
+
+**1.29.5**
+
+- First Deal Pipeline view implementation
+- Fix modal height
+- Fix Ember redirects
+
+**1.29.6**
+
+- Fixes
+
+**1.29.7**
+
+- Fix sync conversation
+- Change note initial state to full view
+- Mark voice notes in conversation sync
+
+**1.29.8**
+
+- Send contact pictures to HubSpot
+- Display task details in side panel
 
 ## 1.28 (June 11, 2022)
 
@@ -86,7 +165,7 @@
 **1.27.3**
 
 - Support rich text edition in Notes (bold, italic, lists, ...)
-- Redesign drop-downs for labels 
+- Redesign drop-downs for labels
 - Required fields displayed on top and not breaking regular fields' layout
 - Fix browser API issue preventing onboarding
 - Reduce errors "User not found" and for pages not supported
